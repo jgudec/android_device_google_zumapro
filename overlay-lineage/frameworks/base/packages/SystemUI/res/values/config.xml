@@ -31,4 +31,9 @@
     <!-- Whether to show a alarm dialog when device's usb port is overheating. -->
     <integer name="config_showUsbPortAlarm">1</integer>
 
+    <dimen name="status_bar_padding_top">7dp</dimen>
+
+    <dimen name="status_bar_padding_start">16dp</dimen>
+
+    <dimen name="status_bar_padding_end">4dp</dimen>
 </resources>
